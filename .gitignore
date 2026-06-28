@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 项目数据
+data/*.xlsx
+data/*.csv
+outputs/*.xlsx
+outputs/*.csv
+outputs/*.log
+
+# 临时文件
+*.tmp
+*.temp
+_b3pred_tmp/
+*_tmp/
+
+# 缓存文件
+*_cache.txt
+allertop_cache.txt
+toxinpred_cache.txt
+cache_*.txt
+pipeline_state.json
+pipeline.log
+
+# 配置文件（含密码）
+config.json
+*.config.json
+
+# 敏感凭证（含QQ邮箱密码、IMAP授权码、AllerTOP账号密码）
+/config.py
+
+# 日志
+*.log
+download.log
+
+# Git
+.gitattributes
