@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="全景图" src="https://github.com/user-attachments/assets/afff3d40-c65e-46ca-a736-e59f7a945a8c" />
 # PeptidePredictPipeline
 
 Automated bioactive peptide prediction pipeline integrating enzymatic digestion, antioxidant activity prediction, allergenicity prediction, toxicity prediction, BBB penetration prediction, and bioactivity scoring.
